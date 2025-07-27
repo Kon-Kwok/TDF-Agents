@@ -7,7 +7,7 @@
 
 In the post-pandemic era, tourists' perception of travel health risks has reached unprecedented levels, causing traditional tourism demand forecasting models to frequently fail due to their inability to effectively respond to drastic fluctuations triggered by public health emergencies. To address this challenge, this project proposes **TDF-Agents**, an end-to-end multi-agent collaborative framework based on large language models (LLMs).
 
-TDF-Agents aims to overcome the limitations of traditional forecasting models by automating the entire workflow—from multi-source data acquisition, processing, and feature recommendation to final prediction. The framework can integrate and analyze complex features, including online sentiment and multidimensional risks, to accurately characterize and explain the dynamic changes in tourism demand in the post-pandemic era.
+TDF-Agents aims to overcome the limitations of traditional forecasting models by automating the entire workflow from multi-source data acquisition, processing, and feature recommendation to final prediction. The framework can integrate and analyze complex features, including online sentiment and multidimensional risks, to accurately characterize and explain the dynamic changes in tourism demand in the post-pandemic era.
 
 ## Framework Architecture
 
